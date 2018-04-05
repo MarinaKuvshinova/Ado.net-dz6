@@ -1,0 +1,9 @@
+D:\ШАГ\ADO.NET\26.03\26.03\26.03\bin\Debug\26.03.exe.config
+D:\ШАГ\ADO.NET\26.03\26.03\26.03\bin\Debug\26.03.exe
+D:\ШАГ\ADO.NET\26.03\26.03\26.03\bin\Debug\26.03.pdb
+D:\ШАГ\ADO.NET\26.03\26.03\26.03\obj\Debug\26.03.csprojResolveAssemblyReference.cache
+D:\ШАГ\ADO.NET\26.03\26.03\26.03\obj\Debug\_26._03.Form1.resources
+D:\ШАГ\ADO.NET\26.03\26.03\26.03\obj\Debug\_26._03.Properties.Resources.resources
+D:\ШАГ\ADO.NET\26.03\26.03\26.03\obj\Debug\26.03.csproj.GenerateResource.Cache
+D:\ШАГ\ADO.NET\26.03\26.03\26.03\obj\Debug\26.03.exe
+D:\ШАГ\ADO.NET\26.03\26.03\26.03\obj\Debug\26.03.pdb
